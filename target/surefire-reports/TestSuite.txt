@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 3.227 sec <<< FAILURE! - in TestSuite
+TC_02(TestClass)  Time elapsed: 0.021 sec  <<< FAILURE!
+java.lang.AssertionError: Zeeshan is failing this TC-02
+	at org.testng.Assert.fail(Assert.java:99)
+	at TestClass.TC_02(TestClass.java:15)
+
